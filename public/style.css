@@ -1,0 +1,46 @@
+fieldset.container{
+    margin-top: 40px;
+}
+
+#information{
+    font-size: 20px;
+    font-style: italic;
+
+}
+
+div.text-centered{
+    text-align: center;
+}
+
+body {
+    padding-bottom: 120px;
+}
+.navbar-brand{
+    padding-left: 20px;
+
+}
+
+div.quote{
+    margin-top: 20%;
+ }
+ 
+ p#quote1, p#author{
+     text-align: center;
+ }
+
+p#quote1{
+    font-size: 25px;
+    font-style: italic;
+}
+p#author{
+    font-size: 15px;
+    font-style: italic;
+}
+
+li{
+    font-size: 17px;
+}
+
+
+
+
