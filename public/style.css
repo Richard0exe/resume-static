@@ -39,7 +39,9 @@ p#author{
 
 li{
     font-size: 17px;
+    list-style-position: inside;
 }
+
 
 
 
